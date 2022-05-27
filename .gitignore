@@ -1,0 +1,3 @@
+env
+*.sqlite8
+*.bak
